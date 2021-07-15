@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "showProgressIndicator(view:):App Utils.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.viewWithTag(K.ProgressIndicator.Tag.viewTag.rawValue)">
+            </PersistentString>
+            <PersistentString
+               value = "progressIndicator.tag">
+            </PersistentString>
+            <PersistentString
+               value = "K.ProgressIndicator.Tag.viewTag.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "hideProgressIndicator(view:):App Utils.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.viewWithTag(K.ProgressIndicator.Tag.viewTag.rawValue)">
+            </PersistentString>
+            <PersistentString
+               value = "K.ProgressIndicator.Tag.viewTag.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIApplication.shared.windows[0]">
+            </PersistentString>
+            <PersistentString
+               value = "UIApplication.shared.windows.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SignUpInteractor.signUpRequest():SignUpInteractor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SignUpViewController.viewDidLoad():SignUpViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "signUpPresenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SignUpRouter.createModule():SignUpRouter.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
